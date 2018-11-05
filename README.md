@@ -64,7 +64,7 @@ Your classes should implement the following interface:
 
 ```javascript
 var hotel = new Hotel("Hilton Metropole", "London")
-hotel.name //=> "Hilton"
+hotel.name //=> "Hilton Metropole"
 hotel.city //=> "London"
 hotel.reviews //=> []
 hotel.reviewCount() //=> 0
